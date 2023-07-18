@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:bookworm
 MAINTAINER Moritz Mahringer <me@moritzmahringer.de>
 
 RUN apt-get update && \
