@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:jessie-20210326
 MAINTAINER Moritz Mahringer <me@moritzmahringer.de>
 
 RUN apt-get update && \
